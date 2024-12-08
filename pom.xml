@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>dev.omar</groupId>
-    <artifactId>eCommerce-Backend</artifactId>
+    <artifactId>eCommerceBackend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>eCommerce-Backend</name>
     <description>eCommerce-Backend</description>
